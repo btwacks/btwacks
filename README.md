@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @btwacks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Docker, Flutter/Dart & Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in scripting and IT automation
+- 🌱 I’m currently learning Docker, Docker Swarm, Kubernetes, Python, and Flutter/Dart 
 
 <!---
 btwacks/btwacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
